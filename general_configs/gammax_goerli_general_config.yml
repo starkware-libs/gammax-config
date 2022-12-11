@@ -1,0 +1,75 @@
+collateral_asset_info:
+  asset_id: '0xa21edc9d9997b1b1956f542fe95922518a9e28ace11b7b2972a1974bf5971f'
+  resolution: '0xf4240'
+fee_position_info:
+  position_id: '571'
+  public_key: '0x31d3850b4a9181df48285a73fff1c2a9cccd46b61880a84f78c6be7a6a33a7e'
+max_funding_rate: '1120'
+orders_tree_height: 64
+positions_tree_height: 64
+synthetic_assets_info:
+  '0x31494e43482d370000000000000000':
+    oracle_price_quorum: '0x2'
+    oracle_price_signed_asset_ids:
+    - '0x31494e434855534400000000000000004d616b6572'
+    - '0x31494e4348555344000000000000000053746f726b'
+    - '0x31494e43485553440000000000000047616d6d6158'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    - '0x793e9f602abba40f00411d6320287fb4d180c06c99f768d3cf91b613f3c8810'
+    resolution: '0x989680'
+    risk_factor: '214748365'
+  '0x4254432d3130000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x425443555344000000000000000000004d616b6572'
+    - '0x4254435553440000000000000000000053746f726b'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    resolution: '0x2540be400'
+    risk_factor: '128849019'
+  '0x4554482d3900000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x455448555344000000000000000000004d616b6572'
+    - '0x4554485553440000000000000000000053746f726b'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    resolution: '0x5f5e100'
+    risk_factor: '128849019'
+  '0x4c494e4b2d37000000000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x4c494e4b5553440000000000000000004d616b6572'
+    - '0x4c494e4b55534400000000000000000053746f726b'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0xcc85afe4ca87f9628370c432c447e569a01dc96d160015c8039959db8521c4'
+    resolution: '0x989680'
+    risk_factor: '214748365'
+  '0x54455354434f494e31000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x544331555344000000000000000000004d616b6572'
+    - '0x54433155534400000000000000000047616d6d6158'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0x793e9f602abba40f00411d6320287fb4d180c06c99f768d3cf91b613f3c8810'
+    resolution: '0x989680'
+    risk_factor: '214748365'
+  '0x54455354434f494e32000000000000':
+    oracle_price_quorum: '0x1'
+    oracle_price_signed_asset_ids:
+    - '0x544321555344000000000000000000004d616b6572'
+    - '0x54432155534400000000000000000047616d6d6158'
+    oracle_price_signers:
+    - '0x60de32cdaf78bdab488d87f7720d5f3898f16d1461203621731f80fa85c35ff'
+    - '0x793e9f602abba40f00411d6320287fb4d180c06c99f768d3cf91b613f3c8810'
+    resolution: '0x989680'
+    risk_factor: '214748365'
+timestamp_validation_config:
+  funding_validity_period: 604800
+  price_validity_period: 31536000
