@@ -73,3 +73,4 @@ synthetic_assets_info:
 timestamp_validation_config:
   funding_validity_period: 604800
   price_validity_period: 31536000
+  w
